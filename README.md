@@ -19,3 +19,6 @@ L'API sera lancée et écoutera sur le port 9191. Vous pouvez y accéder via [ht
 - Ouvrez le dossier `Recipes/`
 - Lancez `Recipes.xcodeproj` avec Xcode
 - Démarrez l'émulateur pour voir l'application en action
+
+## Demo
+![](demo.gif)
